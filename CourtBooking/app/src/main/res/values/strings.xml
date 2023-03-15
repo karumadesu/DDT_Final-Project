@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sports Reserve</string>
+    <string name="CustomerName">Customer Name</string>
+    <string name="ContactNo">Contact No.</string>
+    <string name="CustomerEmail">Email</string>
+    <string name="SubmitButton">Submit Booking</string>
+    <string name="DatePreviewText">Selected Date</string>
+    <string name="ViewBookings">View Bookings</string>
+    <string name="allbookingstitle">A List of All Bookings Made</string>
+    <string name="MoreInfo">More Info...</string>
+</resources>
